@@ -1,0 +1,14 @@
+Necessary installation  
+
+pip install tensorflow
+pip install opencv-python
+pip install numpy
+pip install matplotlib
+
+step 1:Run the model.py file.
+step 2:Then run the implementation.py. 
+
+
+note :
+	The input image should be shaped 32 x 32.
+ 
